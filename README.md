@@ -30,4 +30,4 @@ Basic restaurant model is a Java application built using Maven and the SpringBoo
 
 ## Project Summary
 
-I have created basic SpringBoot application which is basic restaurent model. Which is basically to store the details about restaurants and to get the details of restaurants for users. I have exposed APIs for each operation like addRestaurant , getRestaurantByUsingId , getAllRestaurant , updateRestaurantSpeciality and deleteRestaurent.
+I have created basic SpringBoot application which is basic restaurent model. Which is basically to store the details about restaurants and to get the details of restaurants for users. I have exposed APIs for each operation like addRestaurant , getRestaurantByUsingId , getAllRestaurant , updateRestaurantSpeciality and deleteRestaurent. This is all about my project.
